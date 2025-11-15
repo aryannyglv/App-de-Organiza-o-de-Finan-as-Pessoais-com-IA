@@ -42,25 +42,26 @@ Feedback Imediato: Todas as ações do usuário, como adicionar uma transação 
 
 # 🛠️ Tecnologias Utilizadas
 
-HTML5: Estrutura semântica do aplicativo.
+- HTML5: Estrutura semântica do aplicativo.
 
-TailwindCSS: Framework CSS utility-first para estilização rápida e responsiva.
+- TailwindCSS: Framework CSS utility-first para estilização rápida e responsiva.
 
-JavaScript (ES6+): Utilizado para toda a lógica do aplicativo, incluindo:
+- JavaScript (ES6+): Utilizado para toda a lógica do aplicativo, incluindo:
 
-Manipulação do DOM
+- Manipulação do DOM
 
-Processamento de linguagem natural (NLP)
+- Processamento de linguagem natural (NLP)
 
-Gerenciamento de estado (abas, modais)
+- Gerenciamento de estado (abas, modais)
 
-Persistência de dados
+- Persistência de dados
 
-Chart.js: Biblioteca para a criação do gráfico de pizza na tela de relatórios.
+- Chart.js: Biblioteca para a criação do gráfico de pizza na tela de relatórios.
 
-LocalStorage: Usado para salvar todas as transações, metas e preferências de personalização (tema e cor) no navegador, garantindo que os dados não se percam.
+- LocalStorage: Usado para salvar todas as transações, metas e preferências de personalização (tema e cor) no navegador, garantindo que os dados não se percam.
 
 
-Abra o arquivo index.html (ou o nome que você der a ele) diretamente no seu navegador web de preferência.
+Link: [Aqui está o acesso ao app!](https://lovable.dev/projects/d5554c19-c61a-4af0-8849-91809a2da766?utm_source=lovable-badge)
+ 
 
 Este README foi gerado com base no PRD e nos requisitos do projeto.
